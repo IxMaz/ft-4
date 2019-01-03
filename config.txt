@@ -1,6 +1,6 @@
 token= NTMwMDcxMzEzNzgwMzEwMDQ1.Dw-Ugg._ZcnxoZCkwxrtKFVvKxWqbnjp_c
 owner= 333140974865874944
 prefix= 9
-game= Type 4help
+game= Type 9help
 stayinchannel=true 
 songinstatus=false
